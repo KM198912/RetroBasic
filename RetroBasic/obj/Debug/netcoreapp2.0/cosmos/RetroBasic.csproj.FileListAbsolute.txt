@@ -1,0 +1,12 @@
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\obj\Debug\netcoreapp2.0\cosmos\RetroBasic.csproj.CoreCompileInputs.cache
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\obj\Debug\netcoreapp2.0\cosmos\RetroBasic.AssemblyInfoInputs.cache
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\obj\Debug\netcoreapp2.0\cosmos\RetroBasic.AssemblyInfo.cs
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\bin\Debug\netcoreapp2.0\cosmos\RetroBasic.deps.json
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\bin\Debug\netcoreapp2.0\cosmos\RetroBasic.dll
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\bin\Debug\netcoreapp2.0\cosmos\RetroBasic.pdb
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\obj\Debug\netcoreapp2.0\cosmos\RetroBasic.dll
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\obj\Debug\netcoreapp2.0\cosmos\RetroBasic.pdb
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\obj\Debug\netcoreapp2.0\cosmos\RetroBasic.csprojAssemblyReference.cache
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\bin\Debug\netcoreapp2.0\cosmos\WinUSBNet.dll
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\bin\Debug\netcoreapp2.0\cosmos\WinUSBNet.xml
+C:\Users\kmeer\source\repos\RetroBasic\RetroBasic\obj\Debug\netcoreapp2.0\cosmos\RetroBasic.csproj.CopyComplete
